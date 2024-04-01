@@ -32,7 +32,11 @@ int main()
         cin >> mhs[i].umur;
 
     }
-        
+    for (int i = 0; i < 3; i++) {
+        cout << endl;
+        cout << "\n NIM :" << mhs[i].nim;
+
+    }
 }
 
 
