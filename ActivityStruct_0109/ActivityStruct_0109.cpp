@@ -15,7 +15,11 @@ struct Mahasiswa {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Mahasiswa mhs[3];
+    for (int i = 0; i < 3; i++) {
+
+    }
+        
 }
 
 
